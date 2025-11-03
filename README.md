@@ -1,1 +1,2 @@
-# Soal-nomor2-bagian-1
+Input Bilangan: Program meminta pengguna memasukkan sebuah bilangan bulat positif (int Bil).Validasi: Program memastikan bilangan yang dimasukkan tidak negatif. Jika negatif, pesan kesalahan akan ditampilkan.Perhitungan Faktorial: Jika bilangan valid ($\ge 0$), program menggunakan perulangan (for) untuk mengalikan semua bilangan dari 1 hingga bilangan input tersebut.Output Hasil: Hasil perhitungan faktorial ditampilkan kepada pengguna.
+<img width="555" height="125" alt="Screenshot 2025-11-03 170637" src="https://github.com/user-attachments/assets/856fcf1e-ccfe-47c4-a673-41d431f65f3f" />
