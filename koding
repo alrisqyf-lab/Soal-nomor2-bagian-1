@@ -1,0 +1,18 @@
+// NOMOR 2 YANG 1
+        // Meminta input bilangan dari pengguna
+        System.out.print("Masukkan sebuah bilangan bulat positif: ");
+        int Bil = scanner.nextInt();
+
+        // Validasi input
+        if (Bil < 0) {
+            System.out.println("Bilangan harus positif atau nol.");
+        } else {
+            // Hitung faktorial
+            long faktorial = 1;
+            for (int i = 1; i <= Bil; i++) {
+                faktorial *= i;
+            }
+            // Tampilkan hasil
+            System.out.println("Faktorial dari " + Bil + " adalah " + faktorial);
+        }
+        
